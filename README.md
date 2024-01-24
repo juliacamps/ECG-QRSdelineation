@@ -4,6 +4,6 @@ This repository contains the code developed for the following study: Deep learni
 
 DOI: 10.22489/CinC.2018.292
 
-https://ieeexplore.ieee.org/abstract/document/8743817
+Publication link: https://ieeexplore.ieee.org/abstract/document/8743817
 
 These software and tools are licenced under a Creative Commons Attribution licence (CC BY).
